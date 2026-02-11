@@ -3,7 +3,7 @@ Contributors: Marios Alexandrou
 Donate link: https://infolific.com/technology/software-worth-using/robots-txt-plugin-for-wordpress
 Tags: robots, robots.txt
 Requires at least: 5.0
-Tested up to: 6.6
+Tested up to: 6.9
 License: GPLv2 or later
 
 Virtual Robots.txt automatically creates a robots.txt file for your site. Your robots.txt file can be easily edited from the plugin settings page.
